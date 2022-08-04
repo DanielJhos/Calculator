@@ -1,0 +1,6 @@
+inherited Form1_Windows: TForm1_Windows
+  DesignerMasterStyle = 0
+  inherited caixaBotoes: TLayout
+    Position.Y = -8.000000000000000000
+  end
+end
